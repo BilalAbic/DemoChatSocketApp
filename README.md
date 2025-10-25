@@ -291,7 +291,7 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır.
 
 ---
 
-**Geliştirici:** [Adınız]  
+**Geliştirici:** Bilal Abiç
 **Son Güncelleme:** Ekim 2025  
 **Versiyon:** 1.0.0  
 **Framework:** .NET Framework 4.8  
