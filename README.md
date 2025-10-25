@@ -42,9 +42,9 @@
 ## 📸 Ekran Görüntüleri
 | Görsel | Açıklama |
 |:--|:--|
-| ![Ana Ekran](screenshots/main-screen.png) | Kullanıcı adı, IP ve port bilgilerinin girildiği ana ekran |
-| ![Sunucu Ekranı](screenshots/server-screen.png) | Sunucu oluşturma ve mesajlaşma ekranı |
-| ![İstemci Ekranı](screenshots/client-screen.png) | Sunucuya bağlanma ve mesajlaşma ekranı |
+| ![Ana Ekran](screenshots/main-screen.png) | Kullanıcı adı, IP ve port bilgilerinin girildiği ana ekran. Sunucu oluşturma ve Sunucuya bağlanma ekranı |
+| ![Sunucu Ekranı](screenshots/server-screen.png) |  Mesajlaşma ekranı ve Bağlantı sonlandırma |
+| ![İstemci Ekranı](screenshots/client-screen.png) |  Mesajlaşma ekranı |
 
 ---
 
